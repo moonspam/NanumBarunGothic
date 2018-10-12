@@ -14,13 +14,13 @@ Regular(400), Bold(700), Light(300), Ultra Light(200) 지원됩니다.
 ### link 방식 (권장)
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@1.0/nanumsquare.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@1.0/nanumbarungothicsubset.css">
 ```
 
 ### import 방식
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@1.0/nanumsquare.css");
+@import url("https://cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@1.0/nanumbarungothicsubset.css");
 ```
 
 ### 적용
