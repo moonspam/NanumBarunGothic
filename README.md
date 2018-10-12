@@ -30,3 +30,8 @@ Regular(400), Bold(700), Light(300), Ultra Light(200) 지원됩니다.
 ```css
 body  { font-family: 'NanumBarunGothic', sans-serif; }
 ```
+
+## 참고 사이트
+
+- [스포카 한 산스와 글꼴 경량화](https://spoqa.github.io/2015/10/14/making-spoqa-han-sans.html)
+- [웹폰트 경량화: 폰트툴즈의 pyftsubset을 사용한 폰트 서브셋 만들기](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
