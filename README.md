@@ -3,24 +3,26 @@
 > 모바일에 최적화된 정통 고딕 글꼴입니다. 글꼴이 가장 깨끗해 보이는 두께와 자간을 연구해 또렷하게 보이도록 만들었습니다. 돌출 형태나 곡선이 없어 작은 화면에서도 잘 읽힙니다.  
 `https://hangeul.naver.com/2017/nanum`
 
-바른고딕 웹 폰트를 사용하기 위해 한글 및 특수문자 3,705자만 추려 용량을 약 65% 축소하였습니다.
+바른고딕 웹 폰트를 사용하기 위해 한글 및 특수문자 3,705자만 추려 용량을 약 65% 축소하였습니다.  
+*Version 1.000 2013 initial release* 버전으로 경량화 하였습니다.
 
 ## 옵션
 
-Regular(400), Bold(700), Light(300), Ultra Light(200) 지원됩니다.
+- Regular(400), Bold(700), Light(300), Ultra Light(200) 지원됩니다.
+- [EOT](https://en.wikipedia.org/wiki/Embedded_OpenType), [TTF](https://en.wikipedia.org/wiki/TrueType), [WOFF](https://en.wikipedia.org/wiki/Web_Open_Font_Format), [WOFF2](https://www.w3.org/TR/WOFF2/) 형식을 사용합니다.
 
 ## 사용방법
 
 ### link 방식 (권장)
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@1.0/nanumbarungothicsubset.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@latest/nanumbarungothicsubset.css">
 ```
 
 ### import 방식
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@1.0/nanumbarungothicsubset.css");
+@import url("https://cdn.jsdelivr.net/gh/moonspam/NanumBarunGothic@latest/nanumbarungothicsubset.css");
 ```
 
 ### 적용
@@ -35,3 +37,4 @@ body  { font-family: 'NanumBarunGothic', sans-serif; }
 
 - [스포카 한 산스와 글꼴 경량화](https://spoqa.github.io/2015/10/14/making-spoqa-han-sans.html)
 - [웹폰트 경량화: 폰트툴즈의 pyftsubset을 사용한 폰트 서브셋 만들기](https://www.44bits.io/ko/post/optimization_webfont_with_pyftsubnet)
+- [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
