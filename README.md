@@ -9,7 +9,7 @@
 ## 옵션
 
 - Regular(400), Bold(700), Light(300), Ultra Light(200) 지원됩니다.
-- [EOT](https://en.wikipedia.org/wiki/Embedded_OpenType), [TTF](https://en.wikipedia.org/wiki/TrueType), [WOFF](https://en.wikipedia.org/wiki/Web_Open_Font_Format), [WOFF2](https://www.w3.org/TR/WOFF2/) 형식을 사용합니다.
+- [TTF](https://en.wikipedia.org/wiki/TrueType), [WOFF](https://en.wikipedia.org/wiki/Web_Open_Font_Format), [WOFF2](https://www.w3.org/TR/WOFF2/) 형식을 사용합니다.
 
 ## 사용방법
 
